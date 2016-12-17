@@ -1,12 +1,12 @@
 {
-    "room":                     "Radiant Music",
-    "author":                   "Origin",
-    "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
-    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "room":                     "808 EXCL - TRAP & RAP",
+    "author":                   "Serious",
+    "icon":                     "",
+    "css":                      "https://cdn.rawgit.com/Nosorri/808trap/master/808c.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
-        "allowAutojoin":        false,
+        "allowAutojoin":        true,
         "allowAutograb":        true,
         "allowSmartVote":       true,
         "allowEmotes":          true,
